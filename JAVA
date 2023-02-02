@@ -1,0 +1,72 @@
+Just Another Virtual Accelerator
+JAVA
+Java is a popular programming language, created in 1995.
+It is owned by Oracle, and more than 3 billion devices run Java.
+JAVA is built with the concepts of Object Oriented Programming
+that revolve around real life entities.
+It Is Used For:
+● Mobile applications (specially Android apps)
+● Desktop applications
+● Web applications
+● Web servers and application servers
+● Games
+● Database connection
+● And much, much more!
+Uses Of JAVA
+● Java works on different platforms (Windows, Mac, Linux,
+Raspberry Pi, etc.)
+● It is one of the most popular programming language in the
+world
+● It has a large demand in the current job market
+● It is easy to learn and simple to use
+● It is open-source and free
+● It is secure, fast and powerful
+● It has a huge community support (tens of millions of
+developers)
+● Java is an object oriented language which gives a clear
+structure to programs and allows code to be reused,
+lowering development costs
+● As Java is close to C++ and C#, it makes it easy for
+programmers to switch to Java or vice versa
+How To Install JAVA?
+● To check if you have Java installed on a Windows PC,
+search in the start bar for Java or type the following in
+Command Prompt (cmd.exe):
+Java -version
+● If Java is installed,you will get some information of
+java
+If you do not have Java installed on your computer, you can
+download it for free at oracle.com.
+What Is JAVA JDK?
+The Java Development Kit (JDK) is a cross-platformed
+software development environment that offers a collection of
+tools and libraries necessary for developing Java-based software
+applications and applets. It is a core package used in Java, along
+with the JVM (Java Virtual Machine)_ and the JRE (Java Runtime
+Environment).
+What Is JAVA JVM?
+JVM(Java Virtual Machine) acts as a run-time engine to run
+Java applications. JVM is the one that actually calls the main
+method present in a java code. JVM is a part of JRE(Java Runtime
+Environment). Java applications are called WORA (Write Once
+Run Anywhere).
+What Is JAVA JRE?
+Java Runtime Environment (JRE) is an open-access software
+distribution that has a Java class library, specific tools, and a
+separate JVM. JRE is one of the interrelated components in the
+Java Development Kit (JDK).
+What Are Methods In JAVA?
+Java Method is a collection of statements that perform some
+specific task and return the result to the caller.Methods in Java
+allow us to reuse the code without retyping the code.
+What Are Classes?
+Class is a set of objects which shares common
+characteristics/ behaviour and common properties/
+attributes.Class is not a real world entity. It is just a template or
+blueprint or prototype from which objects are created.Class does
+not occupy memory.Class is a group of variables of different data
+types and group of methods.
+Name: Sharukhesh P.G.
+Grade: 8
+Section: Topaz
+Subject: Computer Science (Practical)
